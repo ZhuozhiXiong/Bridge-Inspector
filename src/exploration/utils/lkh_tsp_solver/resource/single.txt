@@ -1,0 +1,11 @@
+NAME : single.614.tour
+COMMENT : Length = 614
+COMMENT : Found by LKH [Keld Helsgaun] Sat May  2 13:14:25 2026
+TYPE : TOUR
+DIMENSION : 3
+TOUR_SECTION
+1
+3
+2
+-1
+EOF
