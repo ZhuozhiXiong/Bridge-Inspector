@@ -15,10 +15,22 @@ Local path refinement and B-spline trajectory generation are utilized to plan sa
 *   Results demonstrate that the system achieves a full surface coverage while maintaining a close-range inspection distance. Compared to state-of-the-art methods, it reduces average flight time by 14.1% and computation time by 59.1%. 
 This study provides a robust and efficient solution for high-precision bridge inspection in geometrically complex and unknown environments.
 
-The following demo illustrates the autonomous inspection process of a box girder bridge using our proposed online path planner:
+The following demo illustrates the autonomous inspection process of a box girder bridge using our proposed online path planner in simulation:
 
 <p align="center">
   <img src="files/BridgeInspection.gif" width="1000" title="Bridge Inspection Demo"/>
+</p>
+
+The proposed planner can be deployed in real-world experiments:
+
+Bridge 1
+<p align="center">
+  <img src="files/bridge1.gif" width="700" title="Bridge1"/>
+</p>
+
+Bridge 2
+<p align="center">
+  <img src="files/bridge2.gif" width="700" title="Bridge2"/>
 </p>
 
 ## 🌟 Key Features
